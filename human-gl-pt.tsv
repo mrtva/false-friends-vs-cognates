@@ -1,0 +1,61 @@
+W1	C1	P1	W2	C2	P2	R	POS
+acabar	A reunión acabou á hora esperada.	2	acabar	Acabou o jogo e foi-se embora. 	0	1	V
+adquirir	Adquiriu unha finca na costa mediterránea.	0	adquirir	Adquiriu grandes terrenos na região.	0	1	V
+agradábel	Pasamos unha tarde agradábel na súa compaña.	3	agradável	Foi uma jornada muito agradável.	4	1	A
+animal	Encántanlle os animais, por iso é veterinario.	2	animal	Os cães são animais muito fiéis. 	3	1	N
+asentar	O presidente procurou asentar o seu poder.	3	assentar	Estes escritores assentaram as bases do realismo literário.	2	1	V
+avó	O seu avó era o ferreiro da aldea.	2	avó	Carla, a sua avó materna, mora em Lisboa.	3	0	N
+bacharelato	Ela fixo o bacharelato de ciencias.	3	bacharelato	A universidade oferta diferentes cursos de bacharelato. 	6	0	N
+bailado	Agora xa non ten diñeiro, pero que lle quiten o bailado.	10	bailado	Nessa audição verás a melhor companhia de bailado do país.	7	0	N/V
+balón	Esa futbolista ten un bo control do balón.	7	balao	Fez várias viagens em balão.	4	0	N
+bico	Deulle un bico á súa tía cando a foi visitar.	2	bico	É uma ave com um bico muito grande. 	5	0	N
+billa	A billa estragouse e está a botar auga continuamente.	1	bilha	A pastora levava uma bilha à fonte.	4	0	N
+billete	Atopou un billete de 20 euros no chan.	2	bilhete	Perdi o bilhete de identidade, vou à Polícia.	2	0	N
+bolsa	Molláchesme a bolsa de papel e rompeu.	2	bolsa	Ela perdeu todo o dinheiro na bolsa de valores.	6	0	N
+bolso	Mercou un bolso dourado para levar á voda.	2	bolso	Estas calças não têm bolsos.	4	0	N
+borracha	Estaba borracho, así que tivo que beber.	1	borracha	São botas feitas de borracha. 	4	0	N/A
+branco	Lamentablemente ela sempre foi branco de críticos crueis.	4	branco	Ele bebeu um copo de vinho branco.	6	0	N/A
+brillar	Os lucecús brillan nas noites de verán.	2	brilhar	Nessa tarde de verão os raios de sol brilhavam. 	8	1	N
+cachorro	A loba pariu e deu catro cachorros.	6	cachorro	Comi um cachorro quente e umas batatas.	2	0	N
+cámara	Ten unha cámara de vídeo moi boa.	2	câmara	A câmara municipal decidiu não lhes atribuir mais nenhuma ajuda. 	1	0	N
+cociña	A casa da aldea ten unha cociña de leña.	6	cozinha	Pegou a panela e desligou a cozinha.	6	1	N
+coller	Ela colleu as chaves e a chaqueta antes de marchar.	1	colher	Colheres, garfos e facas estavam já na mesa. 	0	0	N/V
+combinar	É difícil combinar a vida profesional coa familiar.	2	combinar	O romance combina suspense, ação e vingança. 	2	1	V
+conclusión	Os dous investigadores chegaron á mesma conclusión.	6	conclusão	A conclusão era começar de novo. 	1	1	N
+confiar	Nunca lle confiou os seus segredos.	2	confiar	Ela confiou-lhe esse segredo.	1	1	N
+cumprimento	Faltan tres meses para o cumprimento dese contrato.	5	cumprimento	Ele cooperou totalmente com o cumprimento da lei.	5	1	N
+estufa	Comprou unha estufa de leña para o inverno.	2	estufa	Há alguns anos tiveram uma estufa de plantas própria.	5	0	N
+eterno	Prometeulle amor eterno.	2	eterno	Prometeu amor eterno.	2	1	A
+exclusivo	Esa sala é de uso exclusivo do persoal directivo.	5	exclusivo	É um presente exclusivo para ela.	3	1	A
+experiencia	Ver a Ribeira Sacra é unha experiencia marabillosa.	6	experiência	Esse acidente é uma experiência difícil de recordar. 	4	1	N
+extremo	Vive no outro extremo da cidade.	3	extremo	Não é permitido construir no extremo da praia.	5	1	N
+fase	O proxecto xa está na fase final.	5	fase	O projeto está na sua fase final.	5	1	N
+forma	Empezou a facer deporte para poñerse en forma.	7	forma	Encontra-se em boa forma física.	3	1	N
+fronteira	Vive na fronteira entre Francia e Alemaña.	2	fronteira	Ele vive na fronteira com Portugal. 	3	1	N
+gasto	Os gastos duplicáronse no mes de Nadal.	1	gasto	Este mês teve muitos gastos.	4	1	N
+graza	Sempre anda con grazas e bromas.	3	graça	As crianças de até três anos ficam de graça.	8	0	N
+húmido	É unha habitación fría e húmida.	5	húmido	É uma espécie que necessita dum clima húmido para sobreviver.	7	1	A
+imperdible	Leva unha pequena medalla nun imperdible na solapa da chaqueta.	5	imperdível	A visita a esse museu é imperdível.	6	0	N/A
+influencia	Ese material exerce influencia sobre estoutro.	3	influência	A sua obra teve grande influência na política.	5	1	N
+mariño	O fondo mariño está aínda moi inexplorado.	2	marinho	O golfinho é o seu animal marinho favorito.	6	1	A
+masa	Moitos medios de comunicación pretenden manipular ás masas.	7	massa	Deves colocar a massa numa taça e juntar a água.	3	0	N
+nacer	Xa naceu a nena?	1	nascer	O menino tem quase um ano, nasceu no inverno passado. 	6	1	V
+óleo	Esa pintura ao óleo encántame!	3	óleo	O óleo de babaçu é perfeito para tratamentos capilares.	1	0	N
+órgano	Sabe tocar o órgano e o piano.	3	órgão	Ele não gosta do som do órgão. 	6	1	N
+perspectiva	A súa perspectiva na empresa é prometedora.	2	perspectiva	Quais são as suas atuais perspetivas de emprego?	5	1	N
+pipa	O teu avó fumaba en pipa.	5	pipa	Têm quatro pipas de vinho na cave.	2	0	N
+político	É un partido político de centro.	3	político	O seu discurso político convenceu a maioria. 	3	1	A
+presente	As miniaturas están moi presentes ao longo deste manuscrito.	4	presente	Recuperar a sua amizade era o único presente que queria.	7	0	N/A
+presumido	Sempre vai maquillada, é moi presumida.	5	presumido	É um caso dum presumido homicídio. 	4	0	A
+real	A súa amizade é moi real.	5	real	A moeda utilizada era o real.	5	0	N/A
+reformado	A normativa quedou reformada tras a última reunión.	3	reformado	Ele é reformado, mas ainda trabalha muito em casa.	2	0	N/A
+responsábel	O profesor non é responsable do comportamento do alumno.	4	responsável	Ele não sabia que o pai era o responsável.	8	1	A
+romance	O libro relata o romance dos dous amantes protagonistas.	4	romance	Gosta muito da Idade Media e dos romances de cavalaria.	7	0	N
+salsa	Queres botarlle salsa rosa ao salmón?	2	salsa	Adicione uma pitadinha de salsa sobre a carne.	4	0	N
+sobrenome	Chámase Antón pero todos o coñecen polo seu sobrenome, Choqueiro.	8	sobrenome	Não o conheço pelo nome, apenas pelo sobrenome.	7	0	N
+unha	Puxo unha chaqueta antes de marchar.	1	unha	Ela gosta de pintar as unhas.	5	0	ART/N
+xantar	O xantar será no pazo ás 14.00 horas.	1	jantar	O horário de jantar é por volta das 21.00 h.	3	0	V
+xustificar	Non intentes xustificar a túa mala actuación.	2	justificar	Deves justificar a tua ausência.	1	1	V
+copo	Onte comezaron a caer os primeiros copos na montaña.	6	copo	Eu enchi o copo de água porque estava com sede.	3	1	N
+principal	Era principal esquecer o asasinato.	1	Principal	O principal é nunca desistir.	1	1	A
+Moa	A moa do muíño rompeu.	1	Moa	Essa moa tinha duas asas.	1	0	N
